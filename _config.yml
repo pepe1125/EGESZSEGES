@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 body:
-  - type: justify
+  - style:
+      text-align: justify
